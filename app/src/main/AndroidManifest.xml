@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="hdfg159.miuisafetyprompt">
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:supportsRtl="true">
+        <meta-data
+            android:name="xposedmodule"
+            android:value="true" />
+        <meta-data
+            android:name="xposeddescription"
+            android:value="去除MIUI安全中心系统被修改提示" />
+        <meta-data
+            android:name="xposedminversion"
+            android:value="30" />
+    </application>
+
+</manifest>
