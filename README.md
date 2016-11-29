@@ -1,6 +1,12 @@
 ### xposed模块-去除MIUI状态栏安全隐患提示
 
+- 理论上支持MIUI安全中心版本(com.miui.securitycenter)是2.0.0或2.0.1版本的ROM
+
 - 红米1s的MIUI8测试通过，具体版本有差异
+
+---
+
+![](https://github.com/hdfg159/MIUISafetyPrompt/tree/master/screenshots/1.png)
 
 ---
 ###关于:####
