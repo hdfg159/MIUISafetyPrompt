@@ -6,7 +6,7 @@
 
 ---
 
-![](https://github.com/hdfg159/MIUISafetyPrompt/tree/master/screenshots/1.png)
+![状态栏图](https://github.com/hdfg159/MIUISafetyPrompt/blob/master/screenshots/1.png?raw=true)
 
 ---
 ###关于:####
